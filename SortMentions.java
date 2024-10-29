@@ -7,4 +7,8 @@ public class SortMentions {
     public void sortByCount(List<Mention> mentions) {
         mentions.sort((m1, m2) -> Integer.compare(m2.getCount(), m1.getCount())); // Sort by count descending
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6be51eb (Add MentionAnalyzer Java files)

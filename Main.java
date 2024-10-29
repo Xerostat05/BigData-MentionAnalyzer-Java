@@ -23,4 +23,8 @@ public class Main {
             System.out.println(mention);
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6be51eb (Add MentionAnalyzer Java files)

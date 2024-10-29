@@ -30,4 +30,8 @@ public class Mention {
                 ", url='" + url + '\'' +
                 '}';
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6be51eb (Add MentionAnalyzer Java files)

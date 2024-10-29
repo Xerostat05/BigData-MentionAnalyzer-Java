@@ -25,4 +25,8 @@ public class DataReader {
         }
         return mentions;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6be51eb (Add MentionAnalyzer Java files)
